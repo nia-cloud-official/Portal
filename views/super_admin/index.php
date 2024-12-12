@@ -7,3 +7,5 @@
 <h2>HEY THERE <?php echo $_SESSION['username']; ?></h2>
 
 <a href="adduser.php">Add new User</a>
+
+<a href="./../../auth/logout.php.php">Add new User</a>
