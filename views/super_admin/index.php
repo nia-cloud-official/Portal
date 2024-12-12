@@ -8,4 +8,4 @@
 
 <a href="adduser.php">Add new User</a>
 
-<a href="./../../auth/logout.php.php">Add new User</a>
+<a href="./../../auth/logout.php.php">Logout</a>
